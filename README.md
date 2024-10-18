@@ -10,6 +10,18 @@
 
 <br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **Neuroscience and graphs**
+ 
+ 🌱 I’m currently learning **Docker, AWS**
+
+💬 Ask me about **Machine learning frameworks or models or  anything [here](https://github.com/jsjoel/jsjoel/issues)**
+
+⚡ Fun fact **CS majors are not necessarily nerds**
+
+ </div>
+
 
 
 ### Hi there 👋
