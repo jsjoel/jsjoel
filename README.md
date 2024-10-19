@@ -71,8 +71,12 @@
 <hr/>
 
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats1-ruby.vercel.app?user=jsjoel&theme=dark&border_radius=10)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+👋;Shoot+a+message+in+LinkedIn!;" />
+</h3>
+
+<br/>
 
 
 
