@@ -57,6 +57,7 @@
 <hr/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jsjoel)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats1-ruby.vercel.app?user=jsjoel&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
 
 
