@@ -60,7 +60,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats1-ruby.vercel.app?user=jsjoel&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jsjoel" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -71,6 +72,7 @@
 
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats1-ruby.vercel.app?user=jsjoel&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
