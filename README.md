@@ -32,6 +32,18 @@
   
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?ivscode,githu,git,r,python,mysql" /><br>
+    
+</div>
+
+<br/>
+<hr/>
+
 
 
 ### Hi there 👋
