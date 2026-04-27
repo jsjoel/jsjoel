@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Neuroscience and graphs**
+ 🔭 I’m currently working on **Reinforcement Learning**
  
  🌱 I’m currently learning **Docker, AWS**
 
